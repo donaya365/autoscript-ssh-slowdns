@@ -19,11 +19,11 @@ echo ''
 clear
 echo ''
 echo "                                                                   "
-echo -e "$Lyellow                    PREMIUM AUTO SCRIPT "$NC
+echo -e "$Lyellow                    PREMIUM AUTO SCRIPT ENVY "$NC
 echo -e "$green.........................................................."$NC
-echo -e "$Lyellow                   Autoscript By DRGVPN"$NC
+echo -e "$Lyellow                   Autoscript By EnvyVpn"$NC
 echo -e "$Lyellow                    CONTACT TELEGRAM"$NC
-echo -e "$Lyellow                        @DRG_VPN"$NC
+echo -e "$Lyellow                        @fromhell26"$NC
 echo -e "$green.........................................................."$NC
 echo ''
 echo -e "$Lyellow                      proses install..."$NC
